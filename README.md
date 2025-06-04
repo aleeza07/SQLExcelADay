@@ -3,6 +3,7 @@ Practiced SQL (IN, BETWEEN, LIKE) and reviewed key Excel formulas!
 <br>
 📊 Today's SQL + Excel Learning Log
 <br>
+
 🔍 SQL:
 ✅ Learned new SQL operators: IN, BETWEEN, LIKE
 
